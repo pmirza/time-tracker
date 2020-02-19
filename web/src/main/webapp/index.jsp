@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <%--
   Created by IntelliJ IDEA.
   User: Jason
@@ -6,7 +8,7 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Super Simple Example Webpage</title>
