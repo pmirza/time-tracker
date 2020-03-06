@@ -11,12 +11,12 @@
 
 <html>
 <head>
-    <title>Super Simple Example Webpage</title>
+    <title>Very Simple Example Webpage</title>
 </head>
 <body>
-  <h1>Super Simple Example Web Page</h1>
+  <h1>Vey Simple Example Web Page</h1>
   <p>
-    This is a very simple example web page on a JSP.
+    This is a very simple example web page on a JSP. Change to demostrate auto deploy.
   </p>
 </body>
 </html>
